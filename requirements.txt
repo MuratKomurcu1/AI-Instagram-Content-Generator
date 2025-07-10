@@ -1,0 +1,33 @@
+# AI Instagram İçerik Üretici - Gereksinimler
+
+# Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# AI ve NLP
+transformers==4.35.0
+torch==2.1.0
+torchvision==0.16.0
+openai-whisper==20231117
+tokenizers==0.14.1
+
+# Görsel İşleme
+opencv-python==4.8.1.78
+Pillow==10.0.1
+moviepy==1.0.3
+
+# Ses İşleme
+librosa==0.10.1
+soundfile==0.12.1
+ffmpeg-python==0.2.0
+
+# Genel Kütüphaneler
+numpy==1.24.3
+pandas==1.5.3
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Dev Dependencies
+pytest==7.4.3
+black==23.9.1
+flake8==6.1.0

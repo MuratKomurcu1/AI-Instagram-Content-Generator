@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Virtual Environment
+cuda_env/
+venv/
+env/
+
+# Uploads
+uploads/
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (opsiyonel - büyük dosyalar)
+*.pt
+*.pth
+models/
+
+# Logs
+*.log
